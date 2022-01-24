@@ -1,3 +1,17 @@
+# CryptoSnake
+
+Easy CryptoCurrency Value Tracker made with React.
+
+I am using [coingecko](https://www.coingecko.com/en/api/documentation) API, You can find it under the link here.
+
+## Display of the App 
+
+![1](https://ibb.co/PrhYYW5)
+![2](https://ibb.co/f9G7v2k)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
