@@ -6,8 +6,8 @@ I am using [coingecko](https://www.coingecko.com/en/api/documentation) API, You 
 
 ## Display of the App 
 
-![1](https://ibb.co/PrhYYW5)
-![2](https://ibb.co/f9G7v2k)
+![1](https://i.ibb.co/BfZPP6g/cryptosnake.jpg)
+![2](https://i.ibb.co/w7r1sRS/cryptosnake2.jpg)
 
 
 
